@@ -1,0 +1,40 @@
+{
+    "Create React Component": {
+        "prefix": "crc",
+        "body": [
+            "import React from 'react';",
+            "",
+            "const $TM_FILENAME_BASE = () => {",
+            "    return (",
+            "        <React.Fragment>",
+            "            $TM_FILENAME_BASE",
+            "        </React.Fragment>",
+            "    );",
+            "};",
+            "",
+            "export default $TM_FILENAME_BASE;",
+            ""
+        ],
+        "isFileTemplate": true,
+        "description": "Create a React Component"
+    },
+    "Create React Component Typed": {
+        "prefix": "crct",
+        "body": [
+            "import React from 'react';",
+            "",
+            "const $TM_FILENAME_BASE = (): JSX.Element => {",
+            "    return (",
+            "        <React.Fragment>",
+            "            $TM_FILENAME_BASE",
+            "        </React.Fragment>",
+            "    );",
+            "};",
+            "",
+            "export default $TM_FILENAME_BASE;",
+            ""
+        ],
+        "isFileTemplate": true,
+        "description": "Create a typed React Component"
+    }
+}
