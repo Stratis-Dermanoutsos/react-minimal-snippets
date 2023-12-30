@@ -20,7 +20,7 @@ export default FileName;
 
 ### `crct`
 
-```typescript
+```javascript
 import React from 'react';
 
 const FileName = (): JSX.Element => {
