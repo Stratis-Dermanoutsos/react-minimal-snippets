@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "publisher": "stratis-dermanoutsos",
     "author": "Stratis Dermanoutsos <stratis.dermanoutsos@gmail.com>",
+    "icon": "images/logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/Stratis-Dermanoutsos/react-minimal-snippets.git"
