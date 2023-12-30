@@ -3,7 +3,11 @@
     "displayName": "React Minimal Snippets",
     "description": "Minimal snippets for React",
     "version": "1.0.0",
-    "publisher": "Stratis-Dermanoutsos",
+    "publisher": "stratis-dermanoutsos",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Stratis-Dermanoutsos/react-minimal-snippets"
+    },
     "engines": {
         "vscode": "^1.28.0"
     },
