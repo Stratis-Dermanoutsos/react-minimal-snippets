@@ -6,4 +6,4 @@ All info about changes
 
 [1.0.0] - 2023-12-23
 
-- Create React Component snippets for JavaScript and TypeScript
+- Create empty React Component snippets for JavaScript and TypeScript
