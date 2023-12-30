@@ -4,10 +4,16 @@
     "description": "Minimal snippets for React",
     "version": "1.0.0",
     "publisher": "stratis-dermanoutsos",
+    "author": "Stratis Dermanoutsos <stratis.dermanoutsos@gmail.com>",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Stratis-Dermanoutsos/react-minimal-snippets"
+        "url": "https://github.com/Stratis-Dermanoutsos/react-minimal-snippets.git"
     },
+    "bugs": {
+        "url": "https://github.com/Stratis-Dermanoutsos/react-minimal-snippets/issues"
+    },
+    "homepage": "https://github.com/Stratis-Dermanoutsos/react-minimal-snippets",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.28.0"
     },
