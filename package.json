@@ -2,7 +2,7 @@
     "name": "react-minimal-snippets",
     "displayName": "React Minimal Snippets",
     "description": "Extension for React snippets meant for minimalists",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "stratis-dermanoutsos",
     "author": "Stratis Dermanoutsos <stratis.dermanoutsos@gmail.com>",
     "icon": "images/logo.png",
