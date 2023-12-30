@@ -1,14 +1,35 @@
-# Snippet Sample
+# React Minimal Snippets
 
-This is the source code for [Snippet Guide](https://code.visualstudio.com/api/language-extensions/snippet-guide).
+Extension for React snippets meant for minimalists for [VS Code](https://code.visualstudio.com/).
 
-## VS Code API
+## DISCLAIMER
 
-### Contribution Points
+> This extension in still under construction and has not been released yet!
 
-- [`contributes.snippets`](https://code.visualstudio.com/api/references/contribution-points#contributes.snippets)
+## Installation
 
-## Running the Sample
+### Visual Studio Marketplace
 
-- Run the `Run Extension` target in the Debug View
-- When you type `log` in a JavaScript file, you would see the snippet `Print to console`.
+#### Use command
+
+1. Launch _Quick Open_:
+   - [_Linux_](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf): `Ctrl+P`
+   - [_macOS_](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf): `⌘P`
+   - [_Windows_](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf): `Ctrl+P`
+2. Paste the following command and press `Enter`:
+
+   ```shell
+   ext install stratis-dermanoutsos.react-minimal-snippets
+   ```
+
+### Use Marketplace
+
+Visit this [link](https://marketplace.visualstudio.com/items?itemName=stratis-dermanoutsos.react-minimal-snippets).
+
+## Search command
+
+Here is direct link to marketplace: [React Minimal Snippets](https://marketplace.visualstudio.com/items?itemName=stratis-dermanoutsos.react-minimal-snippets)
+
+## [Snippets](./docs/SNIPPETS.md)
+
+## [Change log](./CHANGELOG.md)

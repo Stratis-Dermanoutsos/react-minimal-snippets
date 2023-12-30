@@ -16,7 +16,8 @@
             ""
         ],
         "isFileTemplate": true,
-        "description": "Create a React Component"
+        "description": "Create a React Component",
+        "scope": "javascript,javascriptreact,typescript,typescriptreact"
     },
     "Create React Component Typed": {
         "prefix": "crct",
@@ -35,6 +36,7 @@
             ""
         ],
         "isFileTemplate": true,
-        "description": "Create a typed React Component"
+        "description": "Create a typed React Component",
+        "scope": "javascript,javascriptreact,typescript,typescriptreact"
     }
 }
