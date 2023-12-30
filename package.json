@@ -20,6 +20,29 @@
     "categories": [
         "Snippets"
     ],
+    "keywords": [
+        "snippets",
+        "react",
+        "javascript",
+        "typescript"
+    ],
+    "extensionKind": [
+        "ui",
+        "workspace"
+    ],
+    "capabilities": {
+        "virtualWorkspaces": true,
+        "untrustedWorkspaces": {
+            "supported": true
+        }
+    },
+    "activationEvents": [
+        "onLanguage:typescript",
+        "onLanguage:typescriptReact",
+        "onLanguage:javascript",
+        "onLanguage:javascriptReact",
+        "onStartupFinished"
+    ],
     "contributes": {
         "snippets": [
             {
