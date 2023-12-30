@@ -1,10 +1,6 @@
 # React Minimal Snippets
 
-Extension for React snippets meant for minimalists for [VS Code](https://code.visualstudio.com/).
-
-## DISCLAIMER
-
-> This extension in still under construction and has not been released yet!
+Extension for React snippets meant for minimalists for [VS Code](https://code.visualstudio.com/)
 
 ## Installation
 
