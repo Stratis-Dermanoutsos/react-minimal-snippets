@@ -23,7 +23,7 @@ export default FileName;
 ```javascript
 import React from 'react';
 
-const FileName = (): JSX.Element => {
+const FileName = (): React.JSX.Element => {
     return (
         <React.Fragment>
             FileName
