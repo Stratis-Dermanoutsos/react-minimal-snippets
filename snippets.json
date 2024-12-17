@@ -24,7 +24,7 @@
         "body": [
             "import React from 'react';",
             "",
-            "const $TM_FILENAME_BASE = (): JSX.Element => {",
+            "const $TM_FILENAME_BASE = (): React.JSX.Element => {",
             "    return (",
             "        <React.Fragment>",
             "            $TM_FILENAME_BASE",
