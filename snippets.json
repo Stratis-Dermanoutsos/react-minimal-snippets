@@ -38,5 +38,21 @@
         "isFileTemplate": true,
         "description": "Create a typed React Component",
         "scope": "javascript,javascriptreact,typescript,typescriptreact"
+    },
+    "Create React Hook": {
+        "prefix": "crh",
+        "body": [
+            "import React from 'react';",
+            "",
+            "const $TM_FILENAME_BASE = () => {",
+            "    // Add logic here.",
+            "};",
+            "",
+            "export default $TM_FILENAME_BASE;",
+            ""
+        ],
+        "isFileTemplate": true,
+        "description": "Create a React Hook",
+        "scope": "javascript,typescript"
     }
 }

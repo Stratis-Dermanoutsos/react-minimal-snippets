@@ -33,3 +33,15 @@ const FileName = (): React.JSX.Element => {
 
 export default FileName;
 ```
+
+### `crh`
+
+```javascript
+import React from 'react';
+
+const useFileName = () => {
+    // Add logic here.
+};
+
+export default useFileName;
+```
