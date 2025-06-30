@@ -4,9 +4,10 @@ All info about changes
 
 ## Released
 
-### [1.1.0] - 2025-06-13
+### [1.1.0] - 2025-06-30
 
 - Added React Hook snippet
+- Updated README.md
 
 ### [1.0.1] - 2023-12-23
 

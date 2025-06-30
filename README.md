@@ -20,11 +20,7 @@ Extension for React snippets meant for minimalists for [VS Code](https://code.vi
 
 ### Use Marketplace
 
-Visit this [link](https://marketplace.visualstudio.com/items?itemName=stratis-dermanoutsos.react-minimal-snippets).
-
-## Search command
-
-Here is direct link to marketplace: [React Minimal Snippets](https://marketplace.visualstudio.com/items?itemName=stratis-dermanoutsos.react-minimal-snippets)
+Here is direct link to marketplace: [React Minimal Snippets](https://marketplace.visualstudio.com/items?itemName=stratis-dermanoutsos.react-minimal-snippets).
 
 ## [Snippets](./docs/SNIPPETS.md)
 
